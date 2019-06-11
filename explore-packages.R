@@ -18,3 +18,7 @@ ipt <- installed.packages() %>%
 
 ipt
 
+
+devtools::session_info()
+
+
