@@ -1,4 +1,12 @@
 
+#' ---
+#' title: "Github document"
+#' author: "Abdellah Tebani"
+#' date: "`r format(Sys.Date(),format='%Y-%m-%d')`"
+#' output: github_document
+#' ---
+
+
 library(tidyverse)
 library(here)
 
